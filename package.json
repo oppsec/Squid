@@ -1,0 +1,13 @@
+{
+  "name": "squid",
+  "version": "1.0.0",
+  "description": "Underwater Vulnerability Finder",
+  "main": "index.js",
+  "author": "dsm",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "got": "^11.8.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
