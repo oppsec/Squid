@@ -2,13 +2,13 @@
 const colors = require('colors')
 const prompt = require('prompt-sync')()
 const got = require('got')
-
-const asciiArt = require('./View/ascii')
+const fs = require('fs')
 
 
 const Main = () => {
     console.clear()
-    console.log(asciiArt.rainbow)
+    const ascii = fs.readFileSync('./View/ascii.txt', 'utf-8')
+    console.log(ascii.toString().rainbow);
     websiteResponsable()
 }
 
