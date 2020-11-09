@@ -1,6 +1,6 @@
 {
   "name": "squid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Underwater Vulnerability Finder",
   "main": "index.js",
   "author": "dsm",
