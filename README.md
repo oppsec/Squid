@@ -11,7 +11,7 @@
 <br><br>
 
 ## 🤔 What is Squid?
-🦑 **Discor** is an NodeJS CLI application which try to find vulnerabilities in websites.
+🦑 **Squid** is an NodeJS CLI application which try to find vulnerabilities in websites.
 <br><br>
 
 ## ⚙️ Set-Up
