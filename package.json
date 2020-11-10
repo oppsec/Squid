@@ -1,6 +1,6 @@
 {
   "name": "squid",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Underwater Vulnerability Finder",
   "main": "index.js",
   "author": "dsm",
@@ -8,6 +8,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "got": "^11.8.0",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "whois": "^2.13.3"
   }
 }
