@@ -35,6 +35,7 @@
 
 ## 🔨 To-Do
 - ✅ Git Source Code Exposure Checker
+- ✅ Wordpress Checker
 - ⬜️ SQLi Checker
 - ⬜️ XSS Checker
 
