@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/Version-1.2.1-brightgreen.svg?style=for-the-badge)
 ![license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
-![npm](https://img.shields.io/badge/NPM-v12.19-purple.svg?style=for-the-badge)
+![npm](https://img.shields.io/badge/NODE-v14.3-purple.svg?style=for-the-badge)
 
 > Underwater Vulnerability Finder
 
