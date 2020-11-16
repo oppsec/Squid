@@ -2,7 +2,7 @@
 
 <img src="./View/banner.png" widht="100" height="400"><br>
 
-![version](https://img.shields.io/badge/Version-1.1.1-brightgreen.svg?style=for-the-badge)
+![version](https://img.shields.io/badge/Version-1.2.1-brightgreen.svg?style=for-the-badge)
 ![license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 ![npm](https://img.shields.io/badge/NPM-v12.19-purple.svg?style=for-the-badge)
 
@@ -36,9 +36,6 @@
 ## 🔨 To-Do
 - ✅ Git Source Code Exposure Checker
 - ✅ Wordpress Checker
-- ⬜️ Website Information Grabber
-- ⬜️ SQLi Checker
-- ⬜️ XSS Checker
 
 <br><br>
 
