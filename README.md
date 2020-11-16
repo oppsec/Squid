@@ -29,7 +29,7 @@
 
 ## 👀 Preview
 
-<img src="./View/preview.png" width="500">
+<img src="./View/preview.png" width="800">
 
 <br><br>
 
