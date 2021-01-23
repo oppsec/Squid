@@ -36,6 +36,9 @@
 ## 🔨 To-Do
 - ✅ Git Source Code Exposure Checker
 - ✅ Wordpress Checker
+- ⬜ Improve Wordpress and Git Checker
+- ⬜ Search for generic vulns on Wordpress
+- ⬜ Sensitive information checker
 
 <br><br>
 
