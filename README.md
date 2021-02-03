@@ -34,8 +34,9 @@
 <br><br>
 
 ## 🔨 To-Do
-- ✅ Git Source Code Exposure Checker
-- ✅ Wordpress Checker
+- ⬜ Detect website techs
+- ⬜ Check for generic vulns
+- ⬜ Search for sensitive files
 - ⬜ Improve Wordpress and Git Checker
 - ⬜ Search for generic vulns on Wordpress
 - ⬜ Sensitive information checker
